@@ -10,7 +10,7 @@ $ lein repl
 
 => (use 'ring.adapter.jetty)
 
-=> (use 'hello-world.core)
+=> (use 'hound-out.core)
 
 => (run-jetty handler {:port 3000
                        :join? false})
