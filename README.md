@@ -2,6 +2,8 @@
 
 A Clojure library designed to ... well, that part is up to you.
 
+lets have some fun with clojure rest apis...
+
 ## Usage
 
 FIXME
