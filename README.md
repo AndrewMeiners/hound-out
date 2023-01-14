@@ -6,7 +6,14 @@ lets have some fun with clojure rest apis...
 
 ## Usage
 
-FIXME
+$ lein repl
+
+=> (use 'ring.adapter.jetty)
+
+=> (use 'hello-world.core)
+
+=> (run-jetty handler {:port 3000
+                       :join? false})
 
 ## License
 
